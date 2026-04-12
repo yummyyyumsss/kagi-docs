@@ -33,14 +33,6 @@ export default defineConfig({
             // provider: 'local'
             provider: 'algolia',
             options: {
-                // https://github.com/vuejs/vitepress/blob/main/types/docsearch.d.ts
-                /*
-                 * Docsearch
-                 */
-                // appId: '9I636LYHG7',
-                // apiKey: '9d3f84a3dd65cd4a34dc0937e57a54be',
-                // indexName: 'kagi',
-                //
                 /*
                  * GROW Plan
                 */
