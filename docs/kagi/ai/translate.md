@@ -2,10 +2,10 @@
 
 ![Kagi Translate](https://github.com/user-attachments/assets/201bde46-12f1-45a2-8713-8a3d6020d890){width=1036px data-zoomable}
 
-[Kagi Translate](https://translate.kagi.com) is a powerful language translation tool that supports 248 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
+[Kagi Translate](https://translate.kagi.com) is a powerful language translation tool that supports 243 languages. It combines advanced language models to deliver accurate, context-aware translations while maintaining privacy.
 
 ## Key features
-- **Comprehensive language support**: Translate between 248 languages
+- **Comprehensive language support**: Translate between 243 languages
   <details>
     <summary><b>See list of supported languages</b></summary>
     <ul>
